@@ -1,0 +1,1 @@
+web: gunicorn testDeployFinal.wsgi --log-file -
